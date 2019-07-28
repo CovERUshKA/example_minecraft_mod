@@ -10,3 +10,6 @@ Version: 1.12.2
 
 2. Creative tab, block in it and localization
 !["CTbl"](https://cdn.discordapp.com/attachments/488423752628043776/604988889194561536/unknown.png)
+
+3. Menu when right-click on Connector(Block in the shape of the letter "A")
+!["Menu"](https://cdn.discordapp.com/attachments/488423752628043776/604988889194561536/unknown.png)
