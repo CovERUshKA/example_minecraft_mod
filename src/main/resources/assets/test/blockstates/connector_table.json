@@ -1,0 +1,13 @@
+{
+    "variants": 
+        {
+            "normal":
+            {
+                "model": "test:connector_table.obj"
+            },
+             "inventory": 
+            {
+                "model": "test:connector_table.obj"
+            }
+     }
+}
