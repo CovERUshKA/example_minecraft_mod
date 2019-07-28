@@ -13,3 +13,6 @@ Version: 1.12.2
 
 3. Menu when right-click on Connector(Block in the shape of the letter "A")
 !["Menu"](https://cdn.discordapp.com/attachments/488423752628043776/604988889194561536/unknown.png)
+
+4. Damage Indicator(Have some bugs)
+!["DI"](https://cdn.discordapp.com/attachments/488423752628043776/604989896968634378/unknown.png)
