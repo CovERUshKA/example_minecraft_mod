@@ -1,4 +1,4 @@
-# Example minecraft project
+# Example minecraft mod
 
 ## Minecraft Forge
 Version: 1.12.2
